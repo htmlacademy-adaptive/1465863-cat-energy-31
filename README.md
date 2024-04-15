@@ -2,7 +2,7 @@
 
 * Студент: [Aleksei Pashkan](https://up.htmlacademy.ru/adaptive/31/user/1465863).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
-* Проект: [Cat Energy]()
+* Проект: [Cat Energy](ссылка на сайт)
 
 ---
 
