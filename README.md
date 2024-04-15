@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Aleksei Pashkan](https://up.htmlacademy.ru/adaptive/31/user/1465863).
-* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Наставник: `Неизвестно`.
 
 ---
 
