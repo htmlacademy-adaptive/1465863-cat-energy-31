@@ -1,0 +1,18 @@
+.product-common-title {
+  font-family: $font-header;
+  color: $base-black-second;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+
+.product__title {
+  color: $base-black-first;
+}
+
+.product__description {
+  font-family: $font-description;
+  color: $light-dark-text;
+  font-size: 12px;
+  line-height: 16px;
+}

@@ -1,0 +1,22 @@
+.contacts__invitation {
+  font-family: $font-header;
+  color: $base-black-first;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  max-width: 140px;
+}
+
+.contacts__description {
+  font-family: $font-description;
+  font-size: 14px;
+  line-height: 20px;
+  color: $light-dark-text;
+  max-width: 140px;
+  font-style: normal;
+}
+
+.contacts-container--catalog {
+  background-color: $base-grey-background;
+}

@@ -1,0 +1,16 @@
+.button {
+  color: $base-white;
+  font-family: $font-header;
+  text-transform: uppercase;
+  background-color: $base-green;
+  font-size: 16px;
+  line-height: 20px;
+  padding: 10px 64px;
+}
+
+.button--show-all {
+  color: $light-dark-text;
+  text-decoration: none;
+  background-color: $base-grey-background;
+  padding: 10px 95px;
+}

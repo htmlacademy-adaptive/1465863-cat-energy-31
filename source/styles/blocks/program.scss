@@ -1,0 +1,19 @@
+.program__item {
+  background-color: $base-grey-background;
+}
+
+.program__title {
+  font-family: $font-header;
+  text-transform: uppercase;
+  font-size: 24px;
+  line-height: 37px;
+}
+
+.program__link {
+  font-family: $font-header;
+  text-transform: uppercase;
+  color: $base-black-text;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 16px;
+}
