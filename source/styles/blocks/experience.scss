@@ -1,0 +1,27 @@
+.experience {
+  background-color: $dark-grey-background;
+}
+
+.experience__term {
+  font-family: $font-header;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 40px;
+}
+
+.experience__definition {
+  font-family: $font-description;
+  font-size: 12px;
+  line-height: 12px;
+  color: $light-dark-text;
+}
+
+.experience__expenses {
+  font-family: $font-header;
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-align: center;
+}

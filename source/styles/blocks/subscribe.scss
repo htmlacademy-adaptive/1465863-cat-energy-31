@@ -1,0 +1,23 @@
+.subscribe__title {
+  font-family: $font-header;
+  font-size: 24px;
+  line-height: 24px;
+  color: $base-black-text;
+}
+
+.subscribe__description {
+  font-family: $font-header;
+  color: $base-black-text;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.subscribe__input {
+  font-family: $font-header;
+  font-size: 20px;
+  line-height: 30px;
+  color: $light-dark-text;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 13px;
+}

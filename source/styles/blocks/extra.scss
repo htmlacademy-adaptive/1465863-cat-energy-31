@@ -1,0 +1,25 @@
+.extra__title {
+  font-family: $font-header;
+  color: $base-black-text;
+  font-size: 24px;
+  line-height: 24px;
+}
+
+.extra__subtitle {
+  line-height: 16px;
+}
+
+.extra__description-value {
+  font-family: $font-description;
+  color: $light-dark-text;
+  font-size: 14px;
+  line-height: 14px;
+}
+
+.extra__hot-deal {
+  font-family: $font-description;
+  background-color: $light-green;
+  font-size: 16px;
+  line-height: 20px;
+  color: $base-white;
+}
